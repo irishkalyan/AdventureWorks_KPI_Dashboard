@@ -1,0 +1,32 @@
+🚴‍♂️ AdventureWorks KPI Dashboard: Power BI Analytics Project 📊
+I'm excited to share a recent project where I worked as a Business Intelligence Analyst for AdventureWorks, a global manufacturing company producing cycling equipment and accessories. The goal was to design an insightful and interactive dashboard using Power BI to track KPIs and derive actionable insights from raw data.
+
+🔍 Project Name: Adventure Works KPI Dashboard
+Given a folder of raw CSV files containing data on transactions, returns, customers, products, and sales territories, I built a comprehensive dashboard to help the management team monitor performance and make data-driven decisions.
+
+💡 Objective: The management team needed to track key KPIs such as:
+- Sales, revenue, profit, and return rates.
+- Compare regional performance across territories.
+- Analyze product-level trends.
+- Identify high-value customers.
+
+📊 Key Features of the Dashboard:
+- Revenue, profit, and order volume visualized over time to track performance trends.
+- Product-level analysis showing top-selling items and return rates for each category.
+- Regional performance comparison to identify which territories contribute most to revenue.
+- Customer insights to identify the highest-value customers for targeted marketing.
+- Year-over-year trends to help forecast future performance.
+
+🎯 Actionable Insights:
+- Road Bikes and Water Bottles are consistently high in orders and revenue, yet certain helmets show higher-than-average return rates (up to 3.30%). This indicates a need for product quality improvements.
+- Vests have the highest return rate and require investigation to reduce product returns and improve customer satisfaction.
+- The USA region is the strongest performer, while certain territories lag, suggesting opportunities for targeted regional campaigns.
+- Monthly revenue and orders continue to grow at over 12% compared to the previous month, providing opportunities to optimize inventory management.
+- Seasonality trends from the dashboard highlight a potential peak in sales during the summer months, which can inform future marketing strategies.
+
+🛠️ Tools Used:
+- Power BI for building the dashboard and data visualizations
+- DAX for calculations and KPIs
+- Raw CSV data files for import, transformation, and analysis
+
+👩‍💻 This project allowed me to fully utilize Power BI’s capabilities to visualize complex data and deliver key insights to the AdventureWorks team. By transforming raw data into an easy-to-understand format, I helped identify opportunities for growth and operational improvement.
